@@ -1,7 +1,8 @@
 # Repositório de Teste
 
 Este repositório foi criado com o objetivo de **testar fluxos básicos e avançados de versionamento com Git e GitHub**, servindo como ambiente de experimentação, aprendizado e validação de boas práticas.
-**OBS**.: Há um material presente neste arquivo que pertence essencialmente ao Iuricode[Linkedin](https://www.linkedin.com/in/iuricode/), foi acrescentado a este material justamente para não se criar mais do mesmo, portanto segue aqui as devidas referências... Desde já grato pelo excelente trabalho.
+
+**OBS**.: Há um material, presente neste arquivo pertencente ao Iuricode [(GitHub)](https://github.com/iuricode/padroes-de-commits), foi acrescentado a este material, justamente para não se criar mais do mesmo, portanto, segue aqui as devidas referências... Desde já grato ao Iuri pelo excelente trabalho.
 
 ---
 
